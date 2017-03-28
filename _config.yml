@@ -9,7 +9,7 @@ name: David Van Osdol
 description: Data Science student in NYC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/23321760?v=3&u=f038b948de0b65a5351c541aa78e803c9701b652&s=400#
+avatar: https://git.generalassemb.ly/avatars/u/156?u=cb440c7d179f5237ba17ff6c4d745fb107dde939&s=400
 # Flags below are optional
 #
 
@@ -19,7 +19,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/dvanosdol
   instagram:
   linkedin:
   pinterest:
